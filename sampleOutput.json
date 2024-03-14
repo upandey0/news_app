@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Billie Eilish accuses Variety of 'outing' her in cover story",
+      "description": "The singer sarcastically thanks US magazine Variety for \"outing\" her during a red carpet interview.",
+      "url": "http://www.bbc.co.uk/news/newsbeat-67611825",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E1FB/production/_131915875_gettyimages-1827561523.jpg",
+      "publishedAt": "2023-12-04T11:07:23.4011089Z",
+      "content": "Billie Eilish has asked people to stop discussing her sexuality as she accused a magazine of \"outing\" her.\r\nThe Bad Guy singer suggested she was attracted to women in a recent cover interview for US … [+1795 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Paris attack: Mother of suspect had 'reported concerns', prosecutor says",
+      "description": "A 26-year-old man is accused of stabbing a German tourist to death near the Eiffel Tower on Saturday.",
+      "url": "http://www.bbc.co.uk/news/world-europe-67611271",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E54D/production/_131910785_p0gxcy22.jpg",
+      "publishedAt": "2023-12-04T10:52:15.7287507Z",
+      "content": "Media caption, Watch: Video 'shows armed police approach Paris suspect'\r\nThe mother of a man suspected of stabbing a German tourist to death near the Eiffel Tower in Paris reported concerns about her… [+2736 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "CO28 president hits back at climate denial claims",
+      "description": "\"Everything we do is centred behind the science,\" the head of the UN climate talks in Dubai says.",
+      "url": "http://www.bbc.co.uk/news/science-environment-67612929",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/148B2/production/_111764148_breaking-promo.png",
+      "publishedAt": "2023-12-04T10:37:18.2282871Z",
+      "content": "The president of the ongoing UN climate talks Sultan al-Jaber has hit back at claims that he denies a core part of climate science.\r\nIt follows comments he made at an event in November that there was… [+229 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ukraine war: Soldier tells BBC of front-line 'hell'",
+      "description": "A Ukrainian soldier on the east side of the Dnipro river tells the BBC about life on the front line.",
+      "url": "http://www.bbc.co.uk/news/world-europe-67565508",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17124/production/_131900549_gettyimages-1677802503.jpg",
+      "publishedAt": "2023-12-04T05:52:17.248588Z",
+      "content": "Outnumbered and outgunned, one front-line soldier has given a sobering account of Ukraine's struggle to cling on to its foothold on the east bank of the vast Dnipro river.\r\nSeveral hundred Ukrainian … [+6812 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Israel-Gaza live news: Israeli forces pushing into southern Gaza",
+      "description": "Israeli army radio says ground forces have begun operating in the area around the southern city of Khan Younis.",
+      "url": "http://www.bbc.co.uk/news/live/world-middle-east-67605703",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2023-12-04T05:07:22.0910224Z",
+      "content": "For anyone who's still getting their head around the fast-moving events of the last week, here's a brief summary:\r\nA week-long ceasefire ran from 24 November to 1 December, during which Hamas release… [+1135 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Mount Marapi: Eleven hikers killed as volcano erupts in Indonesia",
+      "description": "Another 12 hikers are missing after Mount Marapi, in Sumatra island, shot a huge ash column into the air on Sunday",
+      "url": "http://www.bbc.co.uk/news/world-asia-67610326",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F065/production/_131914516_90c883874bf500730a88261656feb320b7442719.jpg",
+      "publishedAt": "2023-12-04T04:37:14.7010061Z",
+      "content": "Eleven hikers have been found dead near the crater of Indonesia's Marapi volcano after it erupted over the weekend, rescuers say.\r\nThree others were rescued on Monday but the search for 12 more missi… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Beyoncé: Meet the designer who made her sparkle on tour",
+      "description": "Hundreds of hours go into Gaurav Gupta's designs for Beyoncé, Cardi B and Megan Thee Stallion.",
+      "url": "http://www.bbc.co.uk/news/newsbeat-67588067",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/261F/production/_131895790_gettyimages-1609337958.jpg",
+      "publishedAt": "2023-12-04T03:52:12.7004464Z",
+      "content": "Beyoncé's Renaissance world tour was full of fashion moments, with her three-hour sets featuring numerous dazzling looks.\r\nFor her Atlanta show, that came in the form of a flowing neon green sari - a… [+4333 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "US warship downs drones fired from Houthi-held Yemen in Red Sea",
+      "description": "Officials said the USS Carney assisted three vessels, including a British ship, that were attacked.",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-67607862",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E7CD/production/_131914395_c42ac9ce4ec72e0b9b486522508f2b4f9a140a980_0_5905_39371000x667.jpg",
+      "publishedAt": "2023-12-04T02:37:13.2476895Z",
+      "content": "A US warship engaged and shot down three drones after three commercial vessels came under attack in the Red Sea, US Central Command has said.\r\nIt said the USS Carney assisted the ships - which had li… [+2281 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Rizz named word of the year 2023 by Oxford University Press",
+      "description": "Slang for romantic appeal or charm beat Swiftie and situationship in Oxford dictionary award.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-67602699",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11E44/production/_130048237_gettyimages-1258362974.jpg",
+      "publishedAt": "2023-12-04T00:22:17.3882941Z",
+      "content": "Are you good at chatting up or flirting with potential partners? If so, you may already have rizz, even if you didn't know it.\r\nThe Oxford word of the year, internet slang for romantic appeal or char… [+2458 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "A young couple's ordeal captivates Chinese internet",
+      "description": "Their struggles mirror the dashed hopes of so many people confronting a slowing economy.",
+      "url": "http://www.bbc.co.uk/news/world-asia-china-67563596",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5E4D/production/_131914142_screengrab.jpg",
+      "publishedAt": "2023-12-03T23:52:17.1226166Z",
+      "content": "A young Chinese couple whose struggles to own a flat shed light on the country's economic downturn have captivated the nation.\r\nZhang Yiliang and his wife Dong Lijun, both in their 30s, have document… [+5989 chars]"
+    }
+  ]
+}
